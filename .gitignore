@@ -1,5 +1,7 @@
 *__pycache__
 *.session
 *.session-journal
-*.lock
-*.env
+
+.env
+poetry.lock
+pyproject.toml
